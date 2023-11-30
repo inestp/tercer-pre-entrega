@@ -10,3 +10,6 @@ html{
     scroll-behavior: smooth;
 }
 
+nav a:hover{
+    color:  rgb(151, 207, 163);
+}
